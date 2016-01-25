@@ -1,12 +1,12 @@
 {
     "name": "fiten-chat",
     "description": "聊天",
-    "repos": "https://github.com/2betop/placeholder.git",
+    "repos": "https://github.com/tb-component/mobile-chat.git",
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.3"
     },
-    "version": "1.0.3"
+    "version": "1.0.4"
 }
